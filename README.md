@@ -6,3 +6,4 @@ demo
 * Hey I'm updating this readme for the 2nd time now.
 
 That's the way to start
+Closing for today now
